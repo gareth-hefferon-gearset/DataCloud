@@ -4,6 +4,9 @@
     <genAiPlugins>
         <genAiPluginName>MigrationDefaultTopic</genAiPluginName>
     </genAiPlugins>
+    <genAiPlugins>
+        <genAiPluginName>Customer_Service_Assistant</genAiPluginName>
+    </genAiPlugins>
     <masterLabel>EmployeeCopilotPlanner</masterLabel>
     <plannerType>AiCopilot__ReAct</plannerType>
 </GenAiPlanner>
